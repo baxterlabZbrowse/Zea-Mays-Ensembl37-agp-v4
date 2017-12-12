@@ -2,8 +2,7 @@
 
 This repository contains the necessary files to use Zea Mays Ensembl 37 AGPv4 in [Zbrowse] (https://github.com/baxterlabZbrowse/ZBrowse).
 
-We recommend installing the most recent version of [Zbrowse] (https://github.com/baxterlabZbrowse/ZBrowse) before using these annotations.
-This version of annotations links to the Gramene annotations.
+These annotations are incompatible with older versions of ZBrowse. We recommend installing the most recent version of [Zbrowse] (https://github.com/baxterlabZbrowse/ZBrowse) before using these annotations. This version of annotations links to the Gramene annotation pages.
 
 ### Requirements
 
